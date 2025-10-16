@@ -1,6 +1,6 @@
 # RD04
 4th version of Quadruped Robot
-[![Videoyu izleyin](https://github.com/TkRsln/RD04/blob/main/images/20231010_022251.jpg?raw=true)]([https://drive.google.com/uc?export=preview&id=1Ul3iIr05DEfP9j2DYClbEVV6FFiqz9FY](https://drive.google.com/file/d/1RnupB3pll7MTt-dQoDKnbMLql6xzSinr/view?usp=sharing))
+[![Videoyu izleyin](https://github.com/TkRsln/RD04/blob/main/images/20231010_022251.jpg?raw=true)](https://drive.google.com/file/d/1RnupB3pll7MTt-dQoDKnbMLql6xzSinr/view?usp=sharing)
 
 
 ### Software Design
